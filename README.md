@@ -6,3 +6,7 @@
 
 # Day 1 - 14th May, 24
 - learnt about data types and editing rows and columns in power bi (PS: I knew many of them)
+- Project 1 - Customer Marketing data
+
+# Day 2 - 15th May' 24
+- LEARNT ABOUT Data preparation & modelling
