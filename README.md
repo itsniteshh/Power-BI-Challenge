@@ -10,3 +10,6 @@
 
 # Day 2 - 15th May' 24
 - LEARNT ABOUT Data preparation & modelling
+
+# Day 3- 18th May' 24
+- Completed Day 3 which was all about understanding data modelling and merging or appending queries
