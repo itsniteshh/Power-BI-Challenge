@@ -11,5 +11,9 @@
 # Day 2 - 15th May' 24
 - LEARNT ABOUT Data preparation & modelling
 
-# Day 3- 18th May' 24
+# Day 3 - 18th May' 24
 - Completed Day 3 which was all about understanding data modelling and merging or appending queries
+
+# Day 4 - 19th May' 24
+- Completed day 4 of 15 days power bi bootcamp
+- Learnt about Data transformation including pivoting, unpivoting columns, merging querires and using conditional formatting
