@@ -17,3 +17,7 @@
 # Day 4 - 19th May' 24
 - Completed day 4 of 15 days power bi bootcamp
 - Learnt about Data transformation including pivoting, unpivoting columns, merging querires and using conditional formatting
+
+# Day 5 - 20th May' 24
+- Completed Day 5 
+- Learnt about filter and slicers, tool tips and tree map visual
