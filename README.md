@@ -21,3 +21,7 @@
 # Day 5 - 20th May' 24
 - Completed Day 5 
 - Learnt about filter and slicers, tool tips and tree map visual
+
+# Day 6 - 21st May' 24
+- Completed Day 6
+- Learnt about forecasting and finding anomalies. also, learnt how to use custom and selected columns
