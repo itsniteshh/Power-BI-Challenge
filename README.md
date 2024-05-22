@@ -25,3 +25,7 @@
 # Day 6 - 21st May' 24
 - Completed Day 6
 - Learnt about forecasting and finding anomalies. also, learnt how to use custom and selected columns
+
+# Day 7 - 22nd May' 24
+- Few things from Day 7 went like bouncer, although I completed all the modules except for the final project
+- Will revist day 7 tomorrow again
