@@ -29,3 +29,7 @@
 # Day 7 - 22nd May' 24
 - Few things from Day 7 went like bouncer, although I completed all the modules except for the final project
 - Will revist day 7 tomorrow again
+
+# Day 7 - 23nd May' 24
+- completed all the modules from Day 7
+- Learnt few cool tips about themes as well
