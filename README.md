@@ -30,6 +30,10 @@
 - Few things from Day 7 went like bouncer, although I completed all the modules except for the final project
 - Will revist day 7 tomorrow again
 
-# Day 7 - 23nd May' 24
+# Day 7 - 23rd May' 24
 - completed all the modules from Day 7
 - Learnt few cool tips about themes as well
+
+# Day 9 - 24th May
+- Completed half the module from Day 8
+- Learnt about cal columns and measures
