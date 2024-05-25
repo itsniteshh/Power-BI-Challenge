@@ -34,6 +34,6 @@
 - completed all the modules from Day 7
 - Learnt few cool tips about themes as well
 
-# Day 9 - 24th May
+# Day 8 - 24th May
 - Completed half the module from Day 8
 - Learnt about cal columns and measures
