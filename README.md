@@ -37,3 +37,7 @@
 # Day 8 - 24th May
 - Completed half the module from Day 8
 - Learnt about cal columns and measures
+
+# Day 9 - 25th May
+- Completed the remaining half of Day 8 module
+- Learnt about Related, Sumx, Average X, round functions from DAX
