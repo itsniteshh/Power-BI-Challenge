@@ -41,3 +41,7 @@
 # Day 9 - 25th May
 - Completed the remaining half of Day 8 module
 - Learnt about Related, Sumx, Average X, round functions from DAX
+
+# Day 10 - 26th May
+- Completed Day 9 modules
+- Learnt about Calculate, Filter, and operators (will complete ALL measure later)
