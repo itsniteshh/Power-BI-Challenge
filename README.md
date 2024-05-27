@@ -45,3 +45,7 @@
 # Day 10 - 26th May
 - Completed Day 9 modules
 - Learnt about Calculate, Filter, and operators (will complete ALL measure later)
+
+# Day 11 - 27th May
+- Completed Day 10 
+- Learnt how to use chat gpt and time intelligence functions 
