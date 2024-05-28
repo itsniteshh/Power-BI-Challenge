@@ -49,3 +49,8 @@
 # Day 11 - 27th May
 - Completed Day 10 
 - Learnt how to use chat gpt and time intelligence functions 
+
+# Day 12 - 28th Mat
+- Power BI course was diving into data sharing and all, that wasnt needed right now
+- started to make random bi with kaggle data set
+- Completed Netflix shows with 2 graph
