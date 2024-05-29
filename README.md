@@ -50,7 +50,12 @@
 - Completed Day 10 
 - Learnt how to use chat gpt and time intelligence functions 
 
-# Day 12 - 28th Mat
+# Day 12 - 28th May
 - Power BI course was diving into data sharing and all, that wasnt needed right now
 - started to make random bi with kaggle data set
 - Completed Netflix shows with 2 graph
+
+# Day 13 - 29th May
+- Started building 1 dashboard everyday
+- Built Financial KPI dashboard
+- Learnt about Smart narrative & co-pilot
