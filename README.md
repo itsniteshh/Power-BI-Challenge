@@ -59,3 +59,7 @@
 - Started building 1 dashboard everyday
 - Built Financial KPI dashboard
 - Learnt about Smart narrative & co-pilot
+
+# Day 14 - 30th May
+- Couldnt update git at the end of day
+- Completed Election Dashboard
