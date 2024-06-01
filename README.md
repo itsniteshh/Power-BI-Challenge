@@ -63,3 +63,9 @@
 # Day 14 - 30th May
 - Couldnt update git at the end of day
 - Completed Election Dashboard
+
+# Day 15 - 31st May
+- Built Pokemon Dashboard 
+
+# Day 16 - 1st June
+- Completed LLSM Dashboard
