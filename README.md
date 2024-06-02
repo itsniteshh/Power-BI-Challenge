@@ -69,3 +69,6 @@
 
 # Day 16 - 1st June
 - Completed LLSM Dashboard
+
+# Day 16.5 - 2nd June
+- cleaned data using query, will do the rest tomorrow
