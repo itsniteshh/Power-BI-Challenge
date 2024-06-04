@@ -72,3 +72,6 @@
 
 # Day 16.5 - 2nd June
 - cleaned data using query, will do the rest tomorrow
+
+# Day 17 - 4th June
+- Completed zomato DB
