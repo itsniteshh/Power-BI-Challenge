@@ -75,3 +75,6 @@
 
 # Day 17 - 4th June
 - Completed zomato DB
+
+# Day 18 - 5th June
+- Working on Power BI Data
