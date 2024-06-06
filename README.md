@@ -78,3 +78,6 @@
 
 # Day 18 - 5th June
 - Working on Power BI Data
+
+# Day 19 - 6th June 
+- Learnt about Line Chart
